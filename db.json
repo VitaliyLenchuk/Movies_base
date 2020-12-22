@@ -1,4 +1,4 @@
-[
+{ "movies": [
 	{
 	"id": 1,
 	"title": "Taxi",
@@ -20,3 +20,4 @@
 	"description": "Film description"
 	}
 ]
+}
